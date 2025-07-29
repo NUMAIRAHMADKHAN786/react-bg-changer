@@ -23,6 +23,7 @@ function App() {
             className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
             style={{ backgroundColor: "green" }}
           >Green</button>
+          
           <button
             onClick={() => setColor("#ee49cdff")}
             className="outline-none px-4 py-1 rounded-full text-white shadow-lg"
